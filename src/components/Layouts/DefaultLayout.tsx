@@ -1,7 +1,7 @@
 'use client'
 import React, {useState, useLayoutEffect} from 'react';
-import Sidebar from './components/Sidebar';
-import Header from './components/Header';
+import Sidebar from '../Sidebar/index';
+// import Header from './components/Header';
 import {useSession} from 'next-auth/react';
 import {useRouter, usePathname} from 'next/navigation';
 

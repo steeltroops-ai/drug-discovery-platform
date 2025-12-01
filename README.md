@@ -13,24 +13,20 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🧬 [Protein Data Processing](#protein-data)
-6. 🚀 [More](#more)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Features](#features)
+4.  [Quick Start](#quick-start)
+5.  [Protein Data Processing](#protein-data)
+6.  [More](#more)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction"> Introduction</a>
 
 **ProteinBind** is a drug discovery and protein-binding prediction tool built with the latest in machine learning and natural language processing (NLP) technology. Powered by NVIDIA NIM and protein structure prediction models, this project enables users to simulate molecular interactions and predict protein structures.
 
 The platform is designed to help researchers accelerate drug discovery by leveraging cutting-edge AI models for protein folding, docking, and molecular dynamics.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community. It's a place where people help each other out.
-
-<a href="https://discord.com/channels/1221368900579754074/1221368901162631243" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e"  /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - **Next.js**
 - **TypeScript**
@@ -38,15 +34,12 @@ If you're getting started and need assistance or face any bugs, join our active 
 - **Tailwind CSS**
 - **React Chart.js** (for visualizing protein data)
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
+ **Protein Structure Prediction**: Predicts 2D protein structures using NVIDIA models.
+ **Collaborative Research**: Researches can create groups and colloborate with other research online
+ **Responsive Design**: Ensures seamless experience across all devices, from desktops to mobile.
 
-👉 **Protein Structure Prediction**: Predicts 2D protein structures using NVIDIA models.
-
-👉 **Collaborative Research**: Researches can create groups and colloborate with other research online
-
-👉 **Responsive Design**: Ensures seamless experience across all devices, from desktops to mobile.
-
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -97,7 +90,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="protein-data">🧬 Protein Data Processing</a>
+## <a name="protein-data">Protein Data Processing</a>
 
 This section covers the protein data processing pipeline, including loading protein structure files (e.g., PDB format), performing molecular docking simulations, and visualizing the results.
 
@@ -109,11 +102,11 @@ Users can upload PDB files for protein structures, which will then be processed 
 
 Using molecular docking algorithms, the system predicts how small molecules (such as drug candidates) bind to protein targets.
 
-## <a name="more">🚀 More</a>
+## <a name="more">More</a>
 
 Stay tuned for more updates and features! Join our community, contribute to the repository, and follow along with our detailed tutorials.
 
-## 📞 **Contact & Community**
+## **Contact & Community**
 
 If you have any questions or need support, feel free to join our Discord server or contact us through GitHub Discussions.
 
